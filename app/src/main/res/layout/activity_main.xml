@@ -7,12 +7,12 @@
     tools:context=".MainActivity"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="@drawable/imagejeu">
+    android:background="@drawable/imagef">
 
 
     <ImageView
         android:id="@+id/bouteil"
-        android:layout_width="300dp"
+        android:layout_width="200dp"
         android:layout_height="300dp"
         android:layout_marginTop="100dp"
         android:src="@drawable/bouteille"
