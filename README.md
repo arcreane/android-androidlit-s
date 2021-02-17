@@ -8,6 +8,5 @@ Notre projet porte sur un jeu du nom d’Action ou vérité. Qu’est-ce qu’Ac
 •	Processus
 Nous procédons par branches :
 
-- Une branche par features tirés de la branche develop
--	Une branche develop où seront mergés tous les dev des membres
+- chaque membre aura sa propre branche avec son nom où il deposera son code sans modifier le code d'un autre membre
 -	Une branche main qui aura le rendu final
