@@ -14,7 +14,9 @@ Nous procédons par branches :
 
 *Larissa Tsatedem branch Larissa qui correspond a la page du jeu 
 
-*yassine Hebboul branch yassine qui coreespond à la page d'accueil
+*yassine Hebboul branch yassine qui correspond à la page d'accueil
+
+*sira Mendy branch sira qui abrit les questions pour le jeu
 
 -	Une branche main qui aura le rendu final
 
