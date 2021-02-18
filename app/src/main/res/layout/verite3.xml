@@ -14,7 +14,11 @@
         android:layout_height="wrap_content"
         android:text="Si tu devais choisir l'un des joueurs pour voyager à l'autre bout du monde
 qui choisirait tu?"
+        android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#FFFFFF"
+        android:textColorHighlight="#FFFFFF"
+        android:textColorHint="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintLeft_toLeftOf="parent"
