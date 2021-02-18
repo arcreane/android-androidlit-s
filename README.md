@@ -9,8 +9,11 @@ Notre projet porte sur un jeu du nom d’Action ou vérité. Qu’est-ce qu’Ac
 Nous procédons par branches :
 
 - chaque membre aura sa propre branche avec son nom où il deposera son code sans modifier le code d'un autre membre. Donc nous :
+
 *Aby gueye branch master qui correspond à un formulaire pour inscrire les joueurs
+
 *Larissa Tsatedem branch Larissa qui correspond a la page du jeu 
+
 *yassine Hebboul branch yassine qui coreespond à la page d'accueil
 
 -	Une branche main qui aura le rendu final
