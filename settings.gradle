@@ -1,2 +1,6 @@
 include ':app'
+<<<<<<< HEAD
 rootProject.name = "TrueOrDare"
+=======
+rootProject.name = "formquestion"
+>>>>>>> d85e9800d73050dcd2e3c449cae6b6e60c7985e0

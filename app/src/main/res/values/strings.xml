@@ -1,5 +1,9 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">TrueOrDare</string>
     <string name="text">Bienvenue au cours d\android</string>
     <string name="button">Button</string>
+=======
+    <string name="app_name">formquestion</string>
+>>>>>>> d85e9800d73050dcd2e3c449cae6b6e60c7985e0
 </resources>
