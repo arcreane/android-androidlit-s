@@ -16,9 +16,9 @@ Nous procédons par branches :
 
 *yassine Hebboul branch yassine qui correspond à la page d'accueil
 
-*sira Mendy branch sira qui abrit les questions pour le jeu
+*sira Mendy branch main qui abrit les questions pour le jeu
 
--	
+-	La branche product est la branche qui abrit notre projet final car le main on la polué sans faire gaff
 
 
 
