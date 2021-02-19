@@ -8,6 +8,7 @@ Notre projet porte sur un jeu du nom d’Action ou vérité. Qu’est-ce qu’Ac
 •	Processus
 Nous procédons par branches :
 
+<<<<<<< HEAD
 - chaque membre aura sa propre branche avec son nom où il deposera son code sans modifier le code d'un autre membre. Donc nous :
 
 *Aby gueye branch master qui correspond à un formulaire pour inscrire les joueurs
@@ -22,3 +23,8 @@ Nous procédons par branches :
 
 
 
+=======
+- Une branche par features tirés de la branche master
+-	Une branche develop où seront mergés tous les dev des membres
+-	Une branche main qui aura le rendu final
+>>>>>>> e377cb9b7c29322c7fb54faf677a296827d0a05e
