@@ -18,7 +18,7 @@ Nous procédons par branches :
 
 *sira Mendy branch sira qui abrit les questions pour le jeu
 
--	Une branche main qui aura le rendu final
+-	
 
 
 
