@@ -23,7 +23,7 @@ Chaque membre aura sa propre branche avec son nom où il deposera son code sans 
 - MBA KINGNE Fred Morgan a fait une base de donnée en sqlite et la logique aléatoire du jeu. Le code de la bdd se trouve sur la branche CREATE BDD et la logique aleatoire du jeu sera directement dans le rendu final.
 
 
--	La branche product est la branche qui abrit notre projet final fait par toute l'equipe Android-androidlit-s qui sera merger sur le main.
+-	La branche product est la branche qui abrit notre projet final fait par toute l'equipe Android-androidlit-s car le main a étè polué sans faire exprés nous sommes desolé monsieur.
 
 
 
