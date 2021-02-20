@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textAlignment="center"
+    tools:context=".Question"
+    android:background="#000000">
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="334dp"
+        android:layout_height="52dp"
+        android:text="Chantes tout ce que tu dis pendant les 2 prochaines minutes."
+        android:textAlignment="center"
+        android:textColor="#F10707"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView19"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="334dp"
+        android:layout_height="52dp"
+        android:text="Quel est ton manége préféré au parc d'attractions?"
+        android:textAlignment="center"
+        android:textColor="#051EAA"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView22"
+        app:layout_constraintTop_toBottomOf="@+id/textView14"
+        tools:layout_editor_absoluteX="38dp" />
+
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="334dp"
+        android:layout_height="52dp"
+        android:text=" Fais 20 Squats."
+        android:textAlignment="center"
+        android:textColor="#F10707"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView18"
+        app:layout_constraintTop_toBottomOf="@+id/textView19"
+        tools:layout_editor_absoluteX="38dp" />
+
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="334dp"
+        android:layout_height="52dp"
+        android:text="Quel est la pire technique de drague que tu as utilisé?"
+        android:textAlignment="center"
+        android:textColor="#051FAC"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView15"
+        app:layout_constraintTop_toBottomOf="@+id/textView22"
+        tools:layout_editor_absoluteX="38dp" />
+
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="334dp"
+        android:layout_height="52dp"
+        android:text="Propose une Battle de rap à une personne inconnue!"
+        android:textAlignment="center"
+        android:textColor="#F10707"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView20"
+        app:layout_constraintTop_toBottomOf="@+id/textView18"
+        tools:layout_editor_absoluteX="38dp" />
+
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="335dp"
+        android:layout_height="91dp"
+        android:text="Si tu devais choisir l'un des joueurs pour voyager à l'autre bout du monde
+qui choisirait tu?"
+        android:textAlignment="center"
+        android:textColor="#051FAC"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView16"
+        app:layout_constraintTop_toBottomOf="@+id/textView15"
+        tools:layout_editor_absoluteX="38dp" />
+
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="334dp"
+        android:layout_height="52dp"
+        android:text="Tu parles desormais pour tout le reste du jeu avec une voix robotique"
+        android:textAlignment="center"
+        android:textColor="#F10707"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView21"
+        app:layout_constraintTop_toBottomOf="@+id/textView20"
+        tools:layout_editor_absoluteX="38dp" />
+
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="334dp"
+        android:layout_height="52dp"
+        android:text="Dors tu toujours avec un doudou?"
+        android:textAlignment="center"
+        android:textColor="#051FAC"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView17"
+        app:layout_constraintTop_toBottomOf="@+id/textView16"
+        tools:layout_editor_absoluteX="38dp" />
+
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="334dp"
+        android:layout_height="52dp"
+        android:text="Tu dois rester attaché pendant 4 tours."
+        android:textAlignment="center"
+        android:textColor="#F10707"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView7"
+        app:layout_constraintTop_toBottomOf="@+id/textView21"
+        tools:layout_editor_absoluteX="38dp" />
+
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="334dp"
+        android:layout_height="52dp"
+        android:text="Quelle est chose la plus méchante que tu as fait à quelqu'un?"
+        android:textAlignment="center"
+        android:textColor="#051FAC"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView17"
+        tools:layout_editor_absoluteX="38dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
