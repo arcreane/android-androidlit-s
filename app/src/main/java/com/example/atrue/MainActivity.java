@@ -24,4 +24,8 @@ public class MainActivity extends AppCompatActivity {
         EditText number = (EditText) findViewById(R.id.editTextNumber);
         number.setText("editTextNumber" + 1 );
     }
+    public void nbjoueur(View view) {
+        EditText number = (EditText) findViewById(R.id.editTextNumber);
+        number.setText("editTextNumber" );
+    }
 }
