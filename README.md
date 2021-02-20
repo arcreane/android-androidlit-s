@@ -11,7 +11,7 @@ Chaque membre aura sa propre branche avec son nom où il deposera son code sans 
 
 - Yassine Hebboul a fait la page d'accueil de l'application. Son code se trouve sur la branche yassine.
 
-- Jeremy Guez a fait une page menu qui correspond au nombre de joueur qui veulent y participer.Probleme avec github donc pas de branche mais code envoyer par mail aux autres membres.
+- Jeremy Guez a fait une page menu qui correspond au nombre de joueur qui veulent y participer. Son code est sur la branche jeremy.
 
 - Aby Gueye a fait le formulaire pour inscrire le nom des joueurs. Son code se trouve sur la branche master.
 
@@ -23,3 +23,5 @@ Chaque membre aura sa propre branche avec son nom où il deposera son code sans 
 
 
 -	La branche product est la branche qui abrit notre projet final fait par toute l'equipe Android-androidlit-s qui sera merger sur le main.
+
+
