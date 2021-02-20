@@ -1,4 +1,3 @@
-
 "# android-androidlit-s"
 
 •	Description
@@ -8,6 +7,19 @@ Notre projet porte sur un jeu du nom d’Action ou vérité. Qu’est-ce qu’Ac
 •	Processus
 Nous procédons par branches :
 
-- Une branche par features tirés de la branche develop
--	Une branche develop où seront mergés tous les dev des membres
--	Une branche main qui aura le rendu final
+Chaque membre aura sa propre branche avec son nom où il deposera son code sans modifier le code d'un autre membre. Donc nous avons :
+
+- Yassine Hebboul a fait la page d'accueil de l'application. Son code se trouve sur la branche yassine.
+
+- Jeremy Guez a fait une page menu qui correspond au nombre de joueur qui veulent y participer.Probleme avec github donc pas de branche mais code envoyer par mail aux autres membres.
+
+- Aby Gueye a fait le formulaire pour inscrire le nom des joueurs. Son code se trouve sur la branche master.
+
+- Larissa Tsatedem a fait l'interface du jeu avec la bouteille et le plateau(fait sur Canva avec la participation de Aby,Yassine,Sira,Larissa).Son code se trouve sur la branche Larissa.
+
+- Marie Hélène Mendy a fait la page des questions où il ya 5 actions en rouge et 5 verités en bleue. Son code se trouve sur la branche Sira.
+
+- MBA KINGNE Fred Morgan a fait une base de donnée en sqlite et la logique aléatoire du jeu. Le code de la bdd se trouve sur la branche CREATE BDD et la logique aleatoire du jeu sera directement dans le rendu final.
+
+
+-	La branche product est la branche qui abrit notre projet final fait par toute l'equipe Android-androidlit-s qui sera merger sur le main.
